@@ -1,4 +1,4 @@
-Coffee Shop Sales Dashboard ------ 2
+kiCoffee Shop Sales Dashboard ------ 2
 
 
 📌 Project Overview
@@ -36,11 +36,5 @@ Data Cleaning & Preparation
 
 
 
-📸 Dashboard Preview
-
-
-## 📸 Dashboard Preview
-
-![Coffee Shop Sales Dashboard](dashboard prereview.png)
 
 
