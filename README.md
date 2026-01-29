@@ -37,5 +37,8 @@ Data Cleaning & Preparation
 📸 Dashboard Preview
 
 
-![Dashboard Preview 1](C:\Users\Asus\Pictures\Screenshots.png)
+## 📸 Dashboard Preview
+
+![Coffee Shop Sales Dashboard](images/dashboard_preview.png)
+
 
