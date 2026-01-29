@@ -1,4 +1,6 @@
-Coffee Shop Sales Dashboard (Excel Project)
+Coffee Shop Sales Dashboard ------ 2
+
+
 📌 Project Overview
 
 This project is an interactive Excel dashboard built using Coffee Shop Sales data.
@@ -39,6 +41,6 @@ Data Cleaning & Preparation
 
 ## 📸 Dashboard Preview
 
-![Coffee Shop Sales Dashboard](images/dashboard_preview.png)
+![Coffee Shop Sales Dashboard](dashboard prereview.png)
 
 
