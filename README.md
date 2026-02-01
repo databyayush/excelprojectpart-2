@@ -1,4 +1,4 @@
-kiCoffee Shop Sales Dashboard ------ 2
+Coffee Shop Sales Dashboard ------ 2
 
 
 📌 Project Overview
